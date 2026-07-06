@@ -1,0 +1,27 @@
+# Credit Card Fraud Detection
+
+This project is developed as **Task 2** of the **CodSoft Machine Learning Internship**.
+
+The objective of this project is to build a Machine Learning model that can identify fraudulent credit card transactions using transaction-related features. The model performs data preprocessing, handles missing values, encodes categorical variables, and trains a **Random Forest Classifier** to distinguish between legitimate and fraudulent transactions.
+
+The project includes the complete machine learning workflow:
+
+* Data loading and preprocessing
+* Feature encoding
+* Train-test split
+* Model training using Random Forest
+* Model evaluation using Accuracy, Confusion Matrix, and Classification Report
+* Saving the trained model using Joblib
+
+**Technologies Used:**
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Joblib
+
+**Dataset:**
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+This project was completed as part of the **CodSoft Machine Learning Internship** to demonstrate practical knowledge of supervised machine learning and fraud detection techniques.
